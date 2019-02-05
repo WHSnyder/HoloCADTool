@@ -1,6 +1,6 @@
 /Testing/*
 /__pycache__/*
-
+/HoloVulcan/*
 
 # This .gitignore file should be placed at the root of your Unity project directory
 
