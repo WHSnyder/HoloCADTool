@@ -1,7 +1,5 @@
 # HoloCADTool
-<<<<<<< HEAD
-Basic proportional vertex-pulling tool made w/Unity for Hololens 1
-=======
+
 Basic proportional vertex-pulling tool made w/Unity for Hololens 1<br><br><br>
 
 Has:<br><br>
@@ -17,4 +15,3 @@ requests on HoloLens, implementing this is pretty circuitous.  The server files 
 and must be run on a separate machine.  The py server will recieve a constant stream of depth sensor data 
 from the HoloLens (via the Research Mode API -- also pretty unknown) and will determine the presence of a middle finger via 
 convexivity defect analysis.  I doubt this will be very performant, but it's a fun experiment nonetheless.
->>>>>>> f24cd2564c24c787efec644d63096f0b1e952b18
